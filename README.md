@@ -277,41 +277,6 @@ or equal to those of the children and the lowest key is in the root node
 ## Directory Tree
 
 ```
-.
-├── Array
-│  
-├── Backtracking
-│   
-├── BinarySearch
-│   
-├── BitManipulation
-│   
-├── BreadthFirstSearch
-│   
-├── DepthFirstSearch
-│   
-├── Design
-│   
-├── DivideAndConquer
-│  
-├── DynamicProgramming
-│   
-├── HashTable
-│   
-├── LinkedList
-│   
-├── Queue
-│   
-├── Sort
-│  
-├── Stack
-│   
-├── String
-│   
-├── Tree
-│   
-├── Trie
-│   
-└── TwoPointers
+
  
 ```
