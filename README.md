@@ -94,7 +94,7 @@
   in the tree defines the key with which it is associated. All the descendants of a node have a common prefix of the String associated 
   with that node, and the root is associated with the empty String.
 
-![Alt text](/images/trie.png?raw=true "Trie")
+<img src="/images/trie.png?raw=true" alt="Trie" width="400" height="300">
 
 
 ### Heap
