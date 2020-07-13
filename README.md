@@ -319,15 +319,5 @@ or equal to those of the children and the lowest key is in the root node
 ├── Trie
 │   
 └── TwoPointers
-    ├── 3Sum.java
-    ├── 3SumSmaller.java
-    ├── mergeSortedArray.java
-    ├── minimumSizeSubarraySum.java
-    ├── moveZeros.java
-    ├── removeDuplicatesFromSortedArray.java
-    ├── reverseString.java
-    └── sortColors.java 
-
-
-18 directories, 124 files
+ 
 ```
