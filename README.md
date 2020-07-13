@@ -1,6 +1,6 @@
 # Interviews
 > I am a Software Engineering preparing for technical interviews. You can find me [here](https://www.linkedin.com/in/aksinha/).
-<a href="https://www.linkedin.com/in/aksinha/" style="display:block;"><img src="https://media-exp1.licdn.com/dms/image/C5103AQGyVoKP0HcLzg/profile-displayphoto-shrink_400_400/0?e=1600300800&v=beta&t=RqCFmmDlzuR1mDOLZS6f61YxXS77dWSIk-kCB82siI8"></a>
+<a href="https://www.linkedin.com/in/aksinha/" style="display:block;"><img src="https://media-exp1.licdn.com/dms/image/C5103AQGyVoKP0HcLzg/profile-displayphoto-shrink_400_400/0?e=1600300800&v=beta&t=RqCFmmDlzuR1mDOLZS6f61YxXS77dWSIk-kCB82siI8" width="400" height="400"></a>
 >
 > Maintainer - [Anurag Sinha](https://github.com/Sinha18/Algo-DScoding)
 
@@ -87,7 +87,7 @@
    * Insert: `O(log(n))`
    * Remove: `O(log(n))`
 
-<img src="/images/BST.png?raw=true" alt="Binary Search Tree" width="400" height="500">
+<img src="/images/BST.png?raw=true" alt="Binary Search Tree" width="600" height="500">
 
 ### Trie
 * A trie, sometimes called a radix or prefix tree, is a kind of search tree that is used to store a dynamic set or associative
