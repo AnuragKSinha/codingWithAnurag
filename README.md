@@ -136,7 +136,7 @@ or equal to those of the children and the lowest key is in the root node
  (u -> v), this does *not* imply that there exists an edge from node v to node u (v -> u)
 
 
-<img src="/images/graph.png?raw=true" alt="Graph" width="400" height="500">
+<img src="/images/graph.png?raw=true" alt="Graph" width="600" height="500">
 
 ## Algorithms
 
