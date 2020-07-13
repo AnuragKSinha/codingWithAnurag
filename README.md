@@ -1,6 +1,5 @@
 # Interviews
 > I am a Software Engineering preparing for technical interviews. You can find me [here](https://www.linkedin.com/in/aksinha/).
-<a href="https://www.linkedin.com/in/aksinha/" style="display:block;"><img src="https://media-exp1.licdn.com/dms/image/C5103AQGyVoKP0HcLzg/profile-displayphoto-shrink_400_400/0?e=1600300800&v=beta&t=RqCFmmDlzuR1mDOLZS6f61YxXS77dWSIk-kCB82siI8" width="400" height="400"></a>
 >
 > Maintainer - [Anurag Sinha](https://github.com/Sinha18/Algo-DScoding)
 
