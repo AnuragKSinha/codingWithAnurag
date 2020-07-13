@@ -21,17 +21,12 @@
 
 ## Online Judges
 * [LeetCode](https://leetcode.com/)
-* [Virtual Judge](https://vjudge.net/)
 * [CareerCup](https://www.careercup.com/)
 * [HackerRank](https://www.hackerrank.com/)
-* [CodeFights](https://codefights.com/)
-* [Kattis](https://open.kattis.com/)
 * [HackerEarth](https://www.hackerearth.com)
-* [Codility](https://codility.com/programmers/lessons/1-iterations/)
 * [Code Forces](http://codeforces.com/)
 * [Code Chef](https://www.codechef.com/)
 * [Sphere Online Judge - SPOJ](http://www.spoj.com/)
-* [InterviewBit](https://www.interviewbit.com/)
 
 ## Live Coding Practice
 * [Pramp](https://www.pramp.com/ref/gt4)
@@ -130,7 +125,7 @@ or equal to those of the children and the lowest key is in the root node
  the fact that the location of an item is not always determined by its hash value
 
 
-![Alt text](/images/hash.png?raw=true "Hashing")
+![Alt text](/images/hash.jpeg?raw=true "Hashing")
 
 ### Graph
 * A *Graph* is an ordered pair of G = (V, E) comprising a set V of vertices or nodes together with a set E of edges or arcs,
