@@ -6,6 +6,8 @@
  * As we can see in editDist method that there are 2 parameters that are changing
  * which means we need to use a 2D matrix for solving it in Bottom Up Approach 
  * which is more efficient
+ * Note: By this Solution you wont be able to pass all the test cases as it is a naive Solution and takes 
+ * exponential Time Complexity
  */
 class EditDistance {
     public int minDistance(String word1,String word2) {
