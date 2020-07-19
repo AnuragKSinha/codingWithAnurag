@@ -25,13 +25,13 @@ class ValidBinaryTree {
               this.left= left; 
               this.right = right; } 
     }
-    Solution(){
+    ValidBinaryTree(){
         
     }
     Integer min;
     Integer max;
     TreeNode node;
-    Solution(TreeNode node,Integer min,Integer max){
+    ValidBinaryTree(TreeNode node,Integer min,Integer max){
         this.node=node;
         this.min=min;
         this.max=max;
@@ -39,18 +39,18 @@ class ValidBinaryTree {
     public boolean isValidBST(TreeNode root) {
         if(root==null)
             return true;
-        Queue<Solution> q=new LinkedList<>();
-        Solution sol=new Solution(root,null,null);
+        Queue<ValidBinaryTree> q=new LinkedList<>();
+        ValidBinaryTree sol=new ValidBinaryTree(root,null,null);
         q.add(sol);
         while(!q.isEmpty()){
-            Solution temp=q.poll();
+            ValidBinaryTree temp=q.poll();
             if((temp.min!=null && temp.node.val<=temp.min) || (temp.max!=null &&temp.node.val>=temp.max))
                 return false;
             if(temp.node.left!=null){
-                q.add(new Solution(temp.node.left,temp.min,temp.node.val));
+                q.add(new ValidBinaryTree(temp.node.left,temp.min,temp.node.val));
             }
             if(temp.node.right!=null){
-                q.add(new Solution(temp.node.right,temp.node.val,temp.max));
+                q.add(new ValidBinaryTree(temp.node.right,temp.node.val,temp.max));
             }     
         }
         return true;

@@ -18,7 +18,7 @@ public class ValidBinaryTree {
             this.val=val;
         }
         TreeNode(int val){
-            this.val;
+            this.val=val;
         }
     }
     public boolean isValidBST(TreeNode root) {
