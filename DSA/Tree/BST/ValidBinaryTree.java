@@ -9,8 +9,9 @@ import java.util.Queue;
  * Note: here Integer Object is used instead of Integer.MAX_VALUE and Integer.MIN_VALUE
  * because we can expect Integer.MAX_VALUE as an input and if we use it then TestCase 
  * will fail " So Integer Object is used to check that Condition " 
+ * https://leetcode.com/problems/validate-binary-search-tree
  */
-class Solution {
+class ValidBinaryTree {
     public class TreeNode { 
         int val; 
         TreeNode left;
