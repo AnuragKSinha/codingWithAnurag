@@ -3,7 +3,8 @@ import java.util.Map;
 
 /**
  * https://leetcode.com/problems/minimum-path-sum/ This Solution is Recursive
- * Solution With Memorization
+ * Solution With Memorization;
+ * Please refer to DP folder to get a bottom up Approach to solve this Question 
  * 
  */
 class MinPathSum {
