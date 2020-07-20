@@ -8,7 +8,9 @@ package DSA.Recursion;
  * which means we need to use a 2D matrix for solving it in Bottom Up Approach 
  * which is more efficient
  * Note: By this Solution you wont be able to pass all the test cases as it is a naive Solution and takes 
- * exponential Time Complexity
+ * exponential Time Complexity= O(3^(word1+word2))
+ * why i am considering length of word1 and word2 , is we are going till the
+ * length of word1 or word 2
  */
 class EditDistance {
     public int minDistance(String word1,String word2) {
