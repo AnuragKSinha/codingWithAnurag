@@ -5,7 +5,9 @@ import java.util.List;
 /**
  * https://leetcode.com/problems/spiral-matrix/
  * Time Complexity: O(n*m)
- * Space Complexity: O(1)
+ * Space Complexity: O(1) 
+ * Note: Not considering the output array in space complexity
+ * as we can remove it and directly print result in the console
  */
 class SpiralMatrix {
     public List<Integer> spiralOrder(int[][] matrix) {
