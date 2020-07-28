@@ -4,7 +4,7 @@ package DSA.Matrix;
  * Space Complexity : O(1)
  * Time Complexity : O(n+log(m))
  */
-class Solution {
+class RowWiseAndColumnWiseSorted {
     public boolean searchMatrix(int[][] matrix, int target) {
         if(matrix.length==0||matrix[0].length==0)
             return false;
