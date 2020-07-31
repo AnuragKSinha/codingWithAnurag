@@ -1,7 +1,7 @@
 package DSA.Matrix;
 /**
  * https://leetcode.com/problems/number-of-islands/
- * Space Complexity : O(1)
+ * Space Complexity : O(n*m): as we are using internal stack which is used in recursion
  * Time Complexity : O(n*m)
  * we are entering each cell 2 times
  */
