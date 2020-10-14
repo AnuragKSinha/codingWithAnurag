@@ -1,4 +1,4 @@
-package DSA.BST;
+package DSA.Tree.BST;
 /**
  * https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/
  * Space Complexity: O(n) , in worst case when BST is skew tree
@@ -25,7 +25,7 @@ class Node {
 };
 */
 
-class Solution {
+class ConvertBSTtoDLL {
     Node first=null;
     Node last=null;
     public Node treeToDoublyList(Node root) {
